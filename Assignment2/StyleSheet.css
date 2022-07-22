@@ -1,0 +1,46 @@
+﻿body {
+}
+.auto-style1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 149px;
+}
+
+.auto-style {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 149px;
+    width: 1050px;
+    margin: 0 auto 100px;
+}
+
+.auto-style5 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 800px;
+    margin: auto;
+}
+
+.auto-style2 {
+    text-align: center;
+}
+
+.auto-style3 {
+    height: 661px;
+}
+.auto-style4 {
+    width: 450px;
+    height: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
